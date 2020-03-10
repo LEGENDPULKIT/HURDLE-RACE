@@ -1,1 +1,1 @@
-# HURDLE-RACE
+# hurdel-game-2.0
